@@ -1,0 +1,41 @@
+.section1{
+    display: flex;
+}
+.section2{
+    display: flex;
+}
+header h1,h4{
+    text-align: center;
+    color: green;
+    font: oblique bold 120% cursive;
+}
+#lista{
+    color: green;
+    text-align: left;
+}
+.imagen{
+    width: 250px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+    margin: 10px; 
+}
+  
+.imagen img {
+    width: 100%; 
+    height: auto; 
+    border-bottom: 1px solid #ccc; 
+}
+  
+.imagen p {
+    margin: 10px 0; 
+    font-size: 14px; 
+    color: #2e7d32; 
+    font-style: italic; 
+}
+h3 figure{
+    color: #2e7d32;
+}
