@@ -1,32 +1,52 @@
-# MaquetacionFLEX_Practica01c
+MaquetacionFLEX_Practica01c
 
-## Descripción del proyecto
-Este proyecto presenta un diseño responsivo utilizando CSS Flexbox para organizar y estructurar los elementos de la página de manera eficiente y adaptable a diferentes tamaños de pantalla.
+DESCRIPCION DEL PROYECTO
 
-## Contenido de la publicación
-- Directorio del proyecto con los archivos del diseño.
-- Archivo `README.md` explicativo.
+Práctica realizada para aprender y aplicar las propiedades de diseño y maquetación con Flexbox. El objetivo es desarrollar una página web con un diseño responsivo utilizando el modelo de caja flexible.
 
-## Desarrollo del proyecto
-El proyecto utiliza las siguientes técnicas:
-- Implementación de Flexbox para crear diseños flexibles y alineados.
-- Uso de media queries para ajustar el diseño en dispositivos móviles, tabletas y computadoras de escritorio.
+CONTENIDO
 
-## Despliegue
-[Ver la página principal](https://github.com/alejandrosonera/MaquetacionFLEX_Practica01c)
+Un directorio del proyecto que contiene:
 
-## Construido con
-- HTML5
-- CSS3 (Flexbox)
+Archivos HTML, CSS y de recursos necesarios para ejecutar la práctica.
 
-## Versionado
-El proyecto usa [Git](https://git-scm.com/) para el control de versiones.
+Imágenes y otros activos estáticos.
 
-## Autores
-- Alejandro Sonera Benzal - *Diseñador y desarrollador principal*
+Fichero README.md con la documentación del proyecto.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT
+DESARROLLO DEL PROYECTO
 
-## Recursos adicionales
-[Repositorio en GitHub](https://github.com/alejandrosonera/MaquetacionFLEX_Practica01c)
+El desarrollo de esta práctica incluye:
+
+Creación de la estructura HTML.
+
+Aplicación de estilos CSS con enfoque en el modelo Flexbox.
+
+Optimización para diferentes resoluciones y dispositivos.
+
+DESPLIEGUE
+
+La página principal del proyecto está disponible en el siguiente enlace:
+MaquetacionFLEX_Practica01c - Página Principal
+
+CONSTRUIDO CON:
+
+HTML5 - Para la estructura del contenido.
+
+CSS3 - Para el diseño y estilos responsivos.
+
+VERSIONADO
+
+Este proyecto utiliza Git para el control de versiones. Puede obtenerse en el repositorio de GitHub.
+
+AUTOR
+
+Alejandro Sonera Benzal
+
+LICENCIA
+
+Este proyecto está bajo la Licencia MIT.
+
+RECURSOS ADICIONALES
+
+Repositorio en GitHub
